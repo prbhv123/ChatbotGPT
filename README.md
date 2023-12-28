@@ -20,7 +20,6 @@ To set up the project, follow these steps:
 
 2. Install the required dependencies by running the following command in your terminal:
 ```
-    
     pip install -r requirements.txt
 ```    
 
