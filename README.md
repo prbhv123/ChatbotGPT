@@ -19,10 +19,10 @@ To set up the project, follow these steps:
 1. Clone the repository to your local machine.
 
 2. Install the required dependencies by running the following command in your terminal:
-
+```
     
     pip install -r requirements.txt
-    
+```    
 
 3. Open the backend.py file and specify your OpenAI key. You can get this key from the OpenAI website after you sign up.
 
