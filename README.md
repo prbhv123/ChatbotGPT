@@ -6,9 +6,9 @@ Welcome to the OpenAI Chatbot project. This chatbot is built using Python and Op
 
 The project is structured into two main Python files:
 
-1. main.py: This file contains the logic for the Graphical User Interface (GUI) and the integration of the backend with the frontend.
+1. `main.py`: This file contains the logic for the Graphical User Interface (GUI) and the integration of the backend with the frontend.
 
-2. backend.py: This file contains the logic for calling the OpenAI API and getting the response. 
+2. `backend.py`: This file contains the logic for calling the OpenAI API and getting the response. 
 
 In addition to these, there is a requirements.txt file that lists all the Python dependencies that need to be installed for the project to run.
 
@@ -24,9 +24,9 @@ To set up the project, follow these steps:
     pip install -r requirements.txt
 ```    
 
-3. Open the backend.py file and specify your OpenAI key. You can get this key from the OpenAI website after you sign up.
+3. Open the `backend.py` file and specify your OpenAI key. You can get this key from the OpenAI website after you sign up.
 
-4. Run the main.py file to start the chatbot.
+4. Run the `main.py` file to start the chatbot.
 
 ## Usage
 
